@@ -37,4 +37,7 @@ dependencies {
 
     // Preferences Dependencies
     compile 'com.android.support:preference-v7:25.1.0'
+    //firebase SDK
+    compile 'com.google.firebase:firebase-messaging:11.2.0'
 }
+apply plugin: 'com.google.gms.google-services'

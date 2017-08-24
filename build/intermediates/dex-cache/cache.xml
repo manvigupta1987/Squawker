@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/manvi/.android/build-cache/bd87b01c1fd46c613466ebdfec6718ba5a1891bc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d6951cb416ebf8c66a32b9480808ca247b68344">
+        <dex dex="/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Squawker/app/build/intermediates/pre-dexed/debug/classes_a7769ef1ac19356a63b32b628531f27f3af1b1aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manvi/.gradle/caches/modules-2/files-2.1/net.simonvt.schematic/schematic-annotations/0.6.3/4df5a4bbbacf9ea3c4aebf7d3c61465afb648e36/schematic-annotations-0.6.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4df5a4bbbacf9ea3c4aebf7d3c61465afb648e36">
+        <dex dex="/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Squawker/app/build/intermediates/pre-dexed/debug/schematic-annotations-0.6.3_029d2ec62d41d8609073d5361019249ba027fcf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manvi/.android/build-cache/07040093df92f31f8ae24a0733cc5392dd8a1c3f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Squawker/app/build/intermediates/pre-dexed/debug/classes_5fbe4f90121b157a4de52485b30106e7cd6d424f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manvi/.android/build-cache/0d278070b122122d17ffa189c5c7e84332fbdbbf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6f5730f19d22f177096c8d134d4892b0fbd631d">
+        <dex dex="/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Squawker/app/build/intermediates/pre-dexed/debug/classes_222c3deea372b2fede79b4165875247e2d92ab6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manvi/.android/build-cache/d677325e7a8269dccd6fb1e29293aba52b4a4c56/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="378c0fefdd7adedd0ea74d7607b3d4a251b29d78">
+        <dex dex="/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Squawker/app/build/intermediates/pre-dexed/debug/classes_405711ba3145a6cbca2a2719e0920083333b568a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manvi/.android/build-cache/30ac3d70389159f473dc3176ac65d816f5b175aa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
+        <dex dex="/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Squawker/app/build/intermediates/pre-dexed/debug/classes_397de9c5bf595205e3b01a53a24935fc12ee7b65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manvi/.android/build-cache/82ba3e87ab3323018650b25cbae0920eb7ca055b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="75575883f0348fc5d2be85f23bd10b050095cf17">
+        <dex dex="/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Squawker/app/build/intermediates/pre-dexed/debug/classes_4c5201847f4b56e346c698a959276424db2e3e36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manvi/.android/build-cache/00bd0d47f8a2e2d65629353caad2ec6d36bb457a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ce9112e08a027c8620ae693983e38cdbb9f6371b">
+        <dex dex="/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Squawker/app/build/intermediates/pre-dexed/debug/classes_0b8693c22b458351e803088678c3ea159b28da17.jar" />
+    </item>
+
+</items>
