@@ -3,6 +3,51 @@
 
     <item
         is-multidex="false"
+        jar="/home/manvi/.android/build-cache/68c213201d749dd6a802aaf012d898c0afe3e6f0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c478771eacdf8217e093a1b967b8152cfdaadc94">
+        <dex dex="/home/manvi/gitRepos/Squawker/app/build/intermediates/pre-dexed/debug/classes_86713a5b1d154794ae06fe4a39879bbb5c2a6f65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manvi/.android/build-cache/07040093df92f31f8ae24a0733cc5392dd8a1c3f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
+        <dex dex="/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Squawker/app/build/intermediates/pre-dexed/debug/classes_5fbe4f90121b157a4de52485b30106e7cd6d424f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manvi/.android/build-cache/d677325e7a8269dccd6fb1e29293aba52b4a4c56/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="378c0fefdd7adedd0ea74d7607b3d4a251b29d78">
+        <dex dex="/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Squawker/app/build/intermediates/pre-dexed/debug/classes_405711ba3145a6cbca2a2719e0920083333b568a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manvi/.android/build-cache/2cd9dd61a2bea15f22aa3efefe9bcd4ffe5940b7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3da345d7c08a7e9d83a34d8723057624b941c0ea">
+        <dex dex="/home/manvi/gitRepos/Squawker/app/build/intermediates/pre-dexed/debug/classes_d6f2b15ffb8745c9caec35a893481475729365da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manvi/.android/build-cache/e62b0bd39036359f18ba91a39ad182d69434f104/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cad6f251cba07624f49b0c5b6287731a3c9957b8">
+        <dex dex="/home/manvi/gitRepos/Squawker/app/build/intermediates/pre-dexed/debug/classes_f6bfe20d180f8d17d6147c449c49a4fe66a4d7f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/manvi/.android/build-cache/bd87b01c1fd46c613466ebdfec6718ba5a1891bc/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -21,12 +66,39 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/manvi/.android/build-cache/07040093df92f31f8ae24a0733cc5392dd8a1c3f/output/jars/classes.jar"
+        jar="/home/manvi/.android/build-cache/0d278070b122122d17ffa189c5c7e84332fbdbbf/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.2"
-        sha1="0d5cbbbfe040201c7569478b70a13b58fd11aab4">
-        <dex dex="/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Squawker/app/build/intermediates/pre-dexed/debug/classes_5fbe4f90121b157a4de52485b30106e7cd6d424f.jar" />
+        revision="26.0.1"
+        sha1="f6f5730f19d22f177096c8d134d4892b0fbd631d">
+        <dex dex="/home/manvi/gitRepos/Squawker/app/build/intermediates/pre-dexed/debug/classes_222c3deea372b2fede79b4165875247e2d92ab6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manvi/.gradle/caches/modules-2/files-2.1/net.simonvt.schematic/schematic-annotations/0.6.3/4df5a4bbbacf9ea3c4aebf7d3c61465afb648e36/schematic-annotations-0.6.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4df5a4bbbacf9ea3c4aebf7d3c61465afb648e36">
+        <dex dex="/home/manvi/gitRepos/Squawker/app/build/intermediates/pre-dexed/debug/schematic-annotations-0.6.3_029d2ec62d41d8609073d5361019249ba027fcf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manvi/.android/build-cache/918586b241bd552c61355cfe7d2b847b7e704525/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0c6b6b87687475583a7841926cfcadef96280483">
+        <dex dex="/home/manvi/gitRepos/Squawker/app/build/intermediates/pre-dexed/debug/classes_0116a2fc1cf7b249224dc84c36b2422a25b3a915.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manvi/.android/build-cache/5c5996dcbcee011fd3e6bc74811cfe8a89351805/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="edba0aec4aedd4edb3a520b4ee87adc52be762da">
+        <dex dex="/home/manvi/gitRepos/Squawker/app/build/intermediates/pre-dexed/debug/classes_eb882a3bd63fda2e1d1ad01a93a72f6e581be2ef.jar" />
     </item>
     <item
         is-multidex="false"
@@ -39,12 +111,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/home/manvi/.android/build-cache/d677325e7a8269dccd6fb1e29293aba52b4a4c56/output/jars/classes.jar"
+        jar="/home/manvi/.android/build-cache/57a9e60f39360d53b42f4483d6d533d2fd94f365/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
-        revision="25.0.2"
-        sha1="378c0fefdd7adedd0ea74d7607b3d4a251b29d78">
-        <dex dex="/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Squawker/app/build/intermediates/pre-dexed/debug/classes_405711ba3145a6cbca2a2719e0920083333b568a.jar" />
+        revision="26.0.1"
+        sha1="132a3661719fdac703f2a6f6a7b178c85cfe3cc6">
+        <dex dex="/home/manvi/gitRepos/Squawker/app/build/intermediates/pre-dexed/debug/classes_52fec6eeda780318b65bf6dd88a70b47a1c1e0f6.jar" />
     </item>
     <item
         is-multidex="false"
@@ -54,6 +126,24 @@
         revision="25.0.2"
         sha1="a61e7010aa7be5da53cd1bc5279630510c9a4912">
         <dex dex="/home/manvi/AndroidStudioProjects/NanoDegreeProgram/LearningProjects/AdvancedAndroid_Squawker/app/build/intermediates/pre-dexed/debug/classes_397de9c5bf595205e3b01a53a24935fc12ee7b65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manvi/.android/build-cache/a779c6bdb7fa1487d6fe0f2734e3da01f5ee3c33/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="7b4dc2d9e39fb8ec5ddca9b3b3cb7c627690f3a6">
+        <dex dex="/home/manvi/gitRepos/Squawker/app/build/intermediates/pre-dexed/debug/classes_d0e2cf7c5474b7f2497f0c93c2351dec1e88d8f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/manvi/.android/build-cache/5b5ad05223b82ef29a8f27f3f501fc163f5eb56d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f485527b5acf84750fad9a8dd56edbc2b0042f3b">
+        <dex dex="/home/manvi/gitRepos/Squawker/app/build/intermediates/pre-dexed/debug/classes_73decf309c4ab86fd892372c60ee9cc703195310.jar" />
     </item>
     <item
         is-multidex="false"
